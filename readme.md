@@ -7,10 +7,10 @@
 
 ## 📫 How to reach me:
 
--   [LinkedIn](https://www.linkedin.com/in/sajjadul-islam-910b35227/)
--   [Facebook](https://www.facebook.com/amir.sajjad874/)
--   [Instagram](https://www.instagram.com/__kabila_0.0.0.1__/)
--   [Email](mailto:sajjad.islam523@gmail.com)
+-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadul-islam-910b35227/)
+-   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/amir.sajjad874/)
+-   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/__kabila_0.0.0.1__/)
+-   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sajjad.islam523@gmail.com)
 
 ---
 
@@ -41,9 +41,9 @@
 
 ---
 
-### 🤣 Programming Quote:
+### 💬 Quote:
 
-> "Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense."
+> "The only way to do great work is to love what you do." — Steve Jobs
 
 ---
 
