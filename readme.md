@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats:
 
-![Sajjadul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadislam523&show_icons=true&theme=radical)
+![Sajjadul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadislam523&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadislam523&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadislam523&layout=compact&theme=github_dark)
 
 ---
 
