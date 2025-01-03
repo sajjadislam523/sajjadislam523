@@ -90,7 +90,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=sajjadislam523&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/sajjadislam523/sajjadislam523/output/snake.svg" alt="Snake animation" />
 =======
 <picture>
