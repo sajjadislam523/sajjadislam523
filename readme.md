@@ -7,7 +7,7 @@
     <p>💼 <strong>Open to work</strong></p>
     <p>🎨 Love creating user-friendly designs</p>
   </div>
-  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp"  />
 </div>
 
 ## 💫 About Me:
