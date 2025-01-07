@@ -12,8 +12,6 @@
   <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp"  />
 </div>
 
----
-
 ## 🌐 Socials:
 
 <div align="left">
@@ -25,7 +23,9 @@
   </a>
 </div>
 
----
+###
+
+###
 
 # 💻 Tech Stack:
 
@@ -67,16 +67,15 @@
 
 ###
 
----
-
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadislam523&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sajjadislam523&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadislam523&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadislam523&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="200" alt="stats graph" />
+  
+  <img src="https://streak-stats.demolab.com?user=sajjadislam523&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="200" alt="streak graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadislam523&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="200" alt="languages graph" />
 </div>
----
 
 ## ✍️ Random Dev Quote
 
