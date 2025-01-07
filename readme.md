@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-## Hi, I'm Sajjadul Islam! 👋
+# Hi, I'm Sajjadul Islam! 👋 MERN stack developer.
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="display: flex; flex-direction: column;">
@@ -11,6 +9,10 @@
   </div>
   <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp"  />
 </div>
+
+## 💫 About Me:
+
+### Hi, I'm Sajjadul Islam, a passionate MERN stack developer who loves building user-friendly and visually appealing web applications. With a knack for problem-solving and attention to detail, I strive to create impactful digital experiences. Currently, I'm diving deeper into the MERN stack to enhance my skills and bring more innovative ideas to life
 
 ## 🌐 Socials:
 
