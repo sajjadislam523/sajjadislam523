@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/sajjadislam523/sajjadislam523/refs/heads/main/github-banner.png"  />
+</div>
+
 # Hi, I'm Sajjadul Islam! 👋 MERN stack developer.
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
