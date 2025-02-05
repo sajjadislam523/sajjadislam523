@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/sajjadislam523/sajjadislam523/main/github-banner.png" alt="GitHub Banner" />
+  <img height="200" src="https://raw.githubusercontent.com/sajjadislam523/sajjadislam523/main/banner.png" alt="GitHub Banner" />
   
   # Hi, I'm Sajjadul Islam! 👋 
   ### MERN Stack Developer
