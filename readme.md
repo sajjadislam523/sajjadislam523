@@ -47,7 +47,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sajjadislam523/sajjadislam523/output/snake.svg" alt="Snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sajjadislam523&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visitor Counter" />
-</div>
