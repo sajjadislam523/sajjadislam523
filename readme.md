@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,vite,vercel" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,vite,vercel" alt="Tech Stack Icons" />
 </div>
 
 ## 📊 GitHub Stats
