@@ -14,24 +14,21 @@
 
 ## 💫 About Me
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none; padding-right: 20px; vertical-align: top;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 20px;">
 
--   👨💻 Passionate **MERN Stack Developer**
--   🌱 Currently diving deeper into **Next.js**
--   💼 Open to collaboration and job opportunities
--   🎨 Focused on creating **clean, user-friendly interfaces**
--   🚀 Always learning and exploring **new technologies**
+<div style="flex: 1; min-width: 250px; max-width: 400px; text-align: left;">
+- 👨💻 Passionate **MERN Stack Developer**  
+- 🌱 Currently diving deeper into **Next.js**  
+- 💼 Open to collaboration and job opportunities  
+- 🎨 Focused on creating **clean, user-friendly interfaces**  
+- 🚀 Always learning and exploring **new technologies**
+</div>
 
-</td>
-<td style="border: none; padding-left: 20px;">
-
+<div style="flex: 1; min-width: 180px; text-align: center;">
 <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp" alt="Coding GIF" />
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -45,19 +42,11 @@
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 15px;">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sajjadislam523&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadislam523&theme=codeSTACKr" alt="GitHub Streak" />
-</td>
-<td>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadislam523&layout=compact&theme=codeSTACKr" alt="Top Languages" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
