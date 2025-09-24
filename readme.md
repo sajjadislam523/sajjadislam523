@@ -14,9 +14,9 @@
 
 ## 💫 About Me
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td>
+<td style="border: none; padding-right: 20px; vertical-align: top;">
 
 -   👨💻 Passionate **MERN Stack Developer**
 -   🌱 Currently diving deeper into **Next.js**
@@ -25,7 +25,7 @@
 -   🚀 Always learning and exploring **new technologies**
 
 </td>
-<td>
+<td style="border: none; padding-left: 20px;">
 
 <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp" alt="Coding GIF" />
 
