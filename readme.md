@@ -12,11 +12,11 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-<div style="flex: 1;">
-
 ## 💫 About Me
+
+<table>
+<tr>
+<td>
 
 -   👨💻 Passionate **MERN Stack Developer**
 -   🌱 Currently diving deeper into **Next.js**
@@ -24,17 +24,20 @@
 -   🎨 Focused on creating **clean, user-friendly interfaces**
 -   🚀 Always learning and exploring **new technologies**
 
-</div>
+</td>
+<td>
 
 <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdqdm0zcnJmbHlkaHZ1ZzRwZGV0eDVoNnlvd2t6MW1mMzJwYjc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp" alt="Coding GIF" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,vite,vercel" alt="Tech Stack Icons" />
 </div>
 
@@ -42,11 +45,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sajjadislam523&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadislam523&theme=codeSTACKr" alt="GitHub Streak" />
+</td>
+<td>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadislam523&layout=compact&theme=codeSTACKr" alt="Top Languages" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
