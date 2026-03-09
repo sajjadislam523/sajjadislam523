@@ -41,7 +41,6 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Mongoose](https://skillicons.dev/icons?i=mongoose)
 
 ---
 
