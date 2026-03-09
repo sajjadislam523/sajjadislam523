@@ -16,7 +16,7 @@
 ## 💫 About Me
 
 -   👨💻 Passionate MERN Stack Developer
--   🌱 Currently diving deeper into **Next.js**
+-   🌱 Currently diving deeper into **Full Stack Development**
 -   💼 Open to collaboration and job opportunities
 -   🎨 Focused on creating **clean, user-friendly interfaces**
 -   🚀 Always learning and exploring **new technologies**
