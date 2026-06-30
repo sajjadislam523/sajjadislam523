@@ -32,7 +32,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Shadcn UI](https://skillicons.dev/icons?i=shadcnui)
+![Shadcn UI](https://go-skill-icons.vercel.app/api/icons?i=shadcn)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
