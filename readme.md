@@ -25,29 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Shadcn UI](https://go-skill-icons.vercel.app/api/icons?i=shadcn)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Mongoose](https://go-skill-icons.vercel.app/api/icons?i=mongoose)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![TanStack Query](https://go-skill-icons.vercel.app/api/icons?i=reactquery)
-![Context API](https://go-skill-icons.vercel.app/api/icons?i=react)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,html,css,tailwind,shadcn,nodejs,express,mongodb,mongoose,firebase,reactquery,docker,postman,figma,git,github,vscode,vite,vercel)
 
 ---
 
