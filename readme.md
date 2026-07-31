@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Sajjadul Islam! 👋</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="left">Hi, I'm Sajjadul Islam! 👋</h1>
+<h3 align="left">MERN Stack Developer</h3>
+<p align="left">I build clean, scalable, and user-friendly full-stack web applications.</p>
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadislam523)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amir.sajjad874/)
@@ -15,25 +16,36 @@
 
 ## 💫 About Me
 
--   👨💻 Passionate MERN Stack Developer
--   🌱 Currently diving deeper into **Full Stack Development**
--   💼 Open to collaboration and job opportunities
--   🎨 Focused on creating **clean, user-friendly interfaces**
--   🚀 Always learning and exploring **new technologies**
+- 👨‍💻 MERN Stack Developer from Bangladesh
+- 🌱 Currently improving **Next.js, TypeScript, System Design, and Backend Architecture**
+- 💼 Open to **frontend, full-stack, and MERN developer roles**
+- 🎯 Goal: Build production-ready, scalable web applications
+- 🚀 Always learning and exploring **new technologies**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,html,css,tailwind,shadcn,nodejs,express,mongodb,mongoose,firebase,reactquery,docker,postman,figma,git,github,vscode,vite,vercel)
+<!-- ![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,html,css,tailwind,shadcn,nodejs,express,mongodb,mongoose,firebase,reactquery,docker,postman,figma,git,github,vscode,vite,vercel) -->
+
+### Frontend
+
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,html,css,tailwind,shadcn)
+
+### Backend & Database
+
+![Backend & Database](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,mongoose,firebase)
+
+### Tools
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,postman,figma,vscode,vite,vercel)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajjadislam523&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api?username=sajjadislam523&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadislam523&theme=radical&hide_border=true&layout=compact)
+[![Sajjad's GitHub stats](https://github-stats-extended.vercel.app/api?username=sajjadislam523&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Sajjad's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=sajjadislam523&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
